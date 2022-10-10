@@ -1,0 +1,4 @@
+project: ferret
+target: fuzz
+cmds:
+- cmd: /out/fuzz
